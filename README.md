@@ -1,1 +1,3 @@
 # cuda_mcmc
+
+The cuda_mcmc software is designed to greatly accelerate solving various optimization problems using the NVIDIA graphics processing units (GPU) with the CUDA computing platform. We use a version of the Markov chain Monte-Carlo (MCMC) algorithm based on the Metropolis-Hastings sampler with replica exchange (MCMC-RE). The detailed description of the algorithm with its mapping on the CUDA GPU architecture including the user instructions to its installation and writing custom optimization/equation solving applications is provided in the doc/ directory. Several examples of the code usage are given in the examples/ directory. 
