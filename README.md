@@ -17,5 +17,7 @@ After `make` finishes, update the environment variables PATH and PYTHONPATH issu
 
     $ source ~/.bashrc
 
-Or simply open a new console window.
+Or simply open a new console window. This will automatically run ~/.bashrc
+script and set the environment variables.
+
 
